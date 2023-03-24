@@ -127,6 +127,7 @@ header .navbar-container {
   background: linear-gradient(46deg, #101023, #192155);
   padding: 1rem;
   opacity: 0;
+  z-index: 1;
 }
 .navigation-links ul li:first-child:hover .navbar-course-hover {
   opacity: 1;
